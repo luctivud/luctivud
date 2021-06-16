@@ -6,13 +6,13 @@
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  -->
 <!-- I see that you have stumbled upon by GitHub profile, so let me introduce myself in a gist. _[clears throat]_ -->
 ### About Me:
-- I like exploring and working on new technologies.
-- I'm currently pursuing B.Tech in Computer Science & Engineering.
-- I’m a Pythonista and have worked on some Machine Learning Projects.
-- I have handful of experience in Front-end Web Development too. 
-- Competitive Programming is my hobby, passion and skill.
-- Writing is one of my other hobbies. I love to write blogs/ poems in my free time.
-- I love Anime. 
+- 🔭 I like exploring and working on new technologies.
+- 💡 I'm currently pursuing B.Tech in Computer Science & Engineering.
+- 🐍 I'm a Pythonista and have worked on some Machine Learning Projects.
+- 🖥️ I have handful of experience in Front-end Web Development too. 
+- 👨‍💻 Competitive Programming is my hobby, passion and skill.
+- 🖊️ Writing is one of my other hobbies. I love to write blogs/ poems in my free time.
+- 💙 I love Anime. 
 - Drop me a mail at <a href = "mailto:luctivud@gmail.com">luctivud@gmail.com</a>. I will revert back as soon as I can.
 <!-- - <a href ="mailto:luctivud@gmail.com">![Gmail Badge](https://img.shields.io/badge/-luctivud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luctivud@gmail.com)</a> -->
 
