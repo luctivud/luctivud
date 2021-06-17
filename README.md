@@ -52,7 +52,7 @@
 <p align="center">
 <!-- <a href="https://github.com/AVS1508"> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=8&theme=buefy&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=8&theme=buefy"/>
 
 <!-- </a> -->
 </p>
@@ -69,9 +69,21 @@
 <a href="https://instagram.com/t1d.ug"><img src="https://img.shields.io/badge/-@t1d.ug-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/luctivud"><img src="https://img.shields.io/badge/-@luctivud-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.miraquill.com/luctivud"><img src="https://img.shields.io/badge/Miraquill-luctivud-dc4e41?style=flat&logo=&logoColor=white"/></a>
+<a href="https://m.facebook.com/udit.gupta.10048"><img src="https://img.shields.io/badge/-UditGupta-3B5998?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/11529601/luctivud"><img src="https://img.shields.io/badge/-luctivud-f48024?style=flat&logo=Stackoverflow&logoColor=white"/></a>
+<br>
+<a href="https://codeforces.com/profile/luctivud"><img src="https://img.shields.io/badge/-luctivud-445F9D?style=flat&logo=Codeforces&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/light301"><img src="https://img.shields.io/badge/-light301-5D3319?style=flat&logo=Codechef&logoColor=white"/></a>
+<a href="https://www.hackerearth.com/@luctivud"><img src="https://img.shields.io/badge/-luctivud-323754?style=flat&logo=Hackerearth&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/luctivud?hr_r=1"><img src="https://img.shields.io/badge/-luctivud-2EC866?style=flat&logo=Hackerrank&logoColor=white"/></a>
+<a href="https://leetcode.com/luctivud/"><img src="https://img.shields.io/badge/-luctivud-FFA116?style=flat&logo=Leetcode&logoColor=white"/></a>
+<a href="https://atcoder.jp/users/luctivud"><img src="https://img.shields.io/badge/Atcoder-luctivud-222222?style=flat&logo=atcoder&logoColor=white"/></a>
+<a href="https://www.topcoder.com/members/luctivud"><img src="https://img.shields.io/badge/-luctivud-43D7B0?style=flat&logo=Topcoder&logoColor=white"/></a>
+
+
 
 </p>
+
 
 
 <!--Got the trophies from https://github.com/ryo-ma/github-profile-trophy#margin-width -->
