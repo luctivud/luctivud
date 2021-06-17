@@ -12,7 +12,7 @@
 
 <p align = "left"> 
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/pen-doretti-nicholas-dribble.gif" height="120em" />
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/AboutMe-light.png" height="120em" />
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/about-me-light-0x01.jpg" height="120em" />
 </p>
 
 - 🔭 I like exploring and working on new technologies.
@@ -29,7 +29,7 @@
 <br>
 
 <p align = "right">
-  <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/TechStack-light-center.png" height="120em" />
+  <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/Tech-stack-light-0x01.jpg" height="120em" />
   <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/resp-dribble.gif" height="120em" />
 </p>
 
@@ -80,7 +80,7 @@
 
 <p align = "left"> 
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/motion-doretti-nicolas-dribble.gif" height="120em" />
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/Analytics-light.png" height="120em" />
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/Github-stats-light-0x01.jpg" height="120em" />
 </p>
 
 <p align = "left">
@@ -100,7 +100,7 @@
 <!-- ### 🤝🏻 &nbsp;Connect with Me -->
 
 <p align = "right"> 
-  <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/OtherProfiles-light.png" height="120em" />
+  <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/OtherProfiles-light-0x1.jpg" height="120em" />
   <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/team-doretti-nicolas-dribble.gif" height="120em" />
 </p>
 
