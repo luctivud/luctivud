@@ -28,10 +28,12 @@
 <br>
 <br>
 
-<p align = "left">
+<p align = "right">
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/E8Nq-gifer.gif" height="120em" />
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/TechStack-dark-center.png" height="120em" />
 </p>
+
+<div align = "right">
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -46,6 +48,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+</div>
 
 <br>
 <br>
@@ -76,12 +80,12 @@
 
 <!-- ### 🤝🏻 &nbsp;Connect with Me -->
 
-<p align = "left"> 
+<p align = "right"> 
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/team-doretti-nicolas-dribble-dark.gif" height="120em" />
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/Connect-dark.png" height="120em" />
 </p>
 
-<p align="left">
+<p align="right">
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/udit-gupta-1b7863135/"><img src="https://img.shields.io/badge/-Udit%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:luctivud@gmail.com"><img src="https://img.shields.io/badge/-luctivud@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -104,24 +108,9 @@
 </p>
 
 
-
-<!--Got the trophies from https://github.com/ryo-ma/github-profile-trophy#margin-width -->
-
-
-
-
-
-
-
 <!-- <div align = "center">
   <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luctivud&theme=dark&layout=compact" /></p><p><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105"></p>
   </div> -->
-
-
-
-<!-- [![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli)
-[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/rishit-dagli) -->
-
