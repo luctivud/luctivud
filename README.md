@@ -10,6 +10,8 @@
 <br>
 <br>
 
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/pics/E8Nq-gifer.gif" width="100px">
+
 ###  About Me:
 - 🔭 I like exploring and working on new technologies.
 - 💡 I'm currently pursuing B.Tech in Computer Science & Engineering.
