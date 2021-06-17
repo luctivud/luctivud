@@ -33,7 +33,7 @@
   <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/resp-dribble.gif" height="120em" />
 </p>
 
-<div align = "center" style = "table-layout:fixed; overflow: hidden;">
+<div align = "center" style = "table-layout:fixed;">
   <table>
     <col width="200em" />
     <col width="220em" />
@@ -89,8 +89,10 @@
 
 <p align = "center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height ="100em" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=S,AAA,AA,B,C,A&no-bg=true&no-frame=true" />
 </p>
+<!-- <p align = "center">
+  <img height ="100em" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=S,AAA,AA,B,C,A&no-bg=true&no-frame=true" />
+</p> -->
 
 <br>
 <p align = "center">
