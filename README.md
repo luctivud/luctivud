@@ -37,16 +37,17 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align = "center">
-  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=S,AAA,AA,B,C,A&margin-w=10" />
 </div>
+<br/>
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<!-- <a href="https://github.com/AVS1508"> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=8&theme=buefy"/>
+<!-- </a> -->
 </p>
 
-
+<br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -61,25 +62,10 @@
 </p>
 
 
-
 <!--Got the trophies from https://github.com/ryo-ma/github-profile-trophy#margin-width -->
 
 
 
-
-<a href="https://www.rishit.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/header_image.png" width="900"></a>
-
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
-
-![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)
-![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?style=social)
-[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli)
-[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/rishit-dagli)
-
-
-
-Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI enthusiast from 
-[Mumbai, India](https://www.google.com/maps/place/Rishit+Dagli/@19.2115497,72.8411235,15z/data=!4m5!3m4!1s0x0:0xf3ed3bb225394f3c!8m2!3d19.2115497!4d72.8411235) :india:
 
 
 
@@ -90,4 +76,14 @@ Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI 
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105"></p>
   </div> -->
+
+
+
+
+<!--Got the trophies from https://github.com/ryo-ma/github-profile-trophy#margin-width -->
+
+
+
+[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli)
+[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/rishit-dagli)
 
