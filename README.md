@@ -29,7 +29,7 @@
 <br>
 
 <p align = "right">
-  <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/TechStack-dark-center.png" height="120em" />
+  <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/TechStack-light-center.png" height="120em" />
   <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/resp-dribble.gif" height="120em" />
 </p>
 
@@ -83,7 +83,6 @@
 </p>
 
 <p align="right">
-<!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/udit-gupta-1b7863135/"><img src="https://img.shields.io/badge/-Udit%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:luctivud@gmail.com"><img src="https://img.shields.io/badge/-luctivud@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/t1d.ug"><img src="https://img.shields.io/badge/-@t1d.ug-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -99,9 +98,6 @@
 <a href="https://leetcode.com/luctivud/"><img src="https://img.shields.io/badge/-luctivud-FFA116?style=flat&logo=Leetcode&logoColor=white"/></a>
 <a href="https://atcoder.jp/users/luctivud"><img src="https://img.shields.io/badge/Atcoder-luctivud-222222?style=flat&logo=atcoder&logoColor=white"/></a>
 <a href="https://www.topcoder.com/members/luctivud"><img src="https://img.shields.io/badge/-luctivud-43D7B0?style=flat&logo=Topcoder&logoColor=white"/></a>
-
-
-
 </p>
 
 
