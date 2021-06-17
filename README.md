@@ -9,8 +9,12 @@
 
 <br>
 <br>
+<p align = "left> 
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/pics/pen-doretti-nicholas-dribble.gif" height="50em" />
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/pics/About-me-light-204359.png" height="50em" />
 
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/pics/E8Nq-gifer.gif" width="100px">
+</p>
+
 
 ###  About Me:
 - 🔭 I like exploring and working on new technologies.
