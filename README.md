@@ -33,9 +33,9 @@
 
 <p align = "left">
 
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/pics/E8Nq-gifer.gif" height="120em" />
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/E8Nq-gifer.gif" height="120em" />
 
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/pics/Tech-stack-dark.png" height="120em" />
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/TechStack-dark.png" height="120em" />
 
 </p>
 
