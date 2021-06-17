@@ -56,7 +56,15 @@
 <br>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+<!-- ### ⚙️ &nbsp;GitHub Analytics -->
+
+<p align = "left"> 
+
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/motion-doretti-nicolas-dribble.gif" height="120em" />
+
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/Analytics-light.png" height="120em" />
+
+</p>
 
 <div align = "center">
   <img align="center" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=S,AAA,AA,B,C,A&margin-w=10" />
