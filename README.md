@@ -79,8 +79,8 @@
 <!-- ### ⚙️ &nbsp;GitHub Analytics -->
 
 <p align = "left"> 
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/motion-doretti-nicolas-dribble.gif" height="120em" />
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/Github-stats-light-0x01.jpg" height="120em" />
+  <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/motion-doretti-nicolas-dribble.gif" height="120em" />
+  <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/Github-stats-light-0x01.jpg" height="120em" />
 </p>
 
 
@@ -88,22 +88,24 @@
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height ="150em" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=SECRET,S,AAA,AA,B,C,A&no-bg=true&no-frame=true&margin-w=0" />
 </p>
+
 <br>
 <p align = "left">
   <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=5&theme=buefy"/>
   <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=darcula"/>
 </p>
+
 <br>
 <br>
 
 <!-- ### 🤝🏻 &nbsp;Connect with Me -->
 
-<p align = "right"> 
+<p align = "center"> 
   <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/OtherProfiles-light-0x1.jpg" height="120em" />
   <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/team-doretti-nicolas-dribble.gif" height="120em" />
 </p>
 
-<p align="right">
+<p align="center">
 <a href="https://www.linkedin.com/in/udit-gupta-1b7863135/"><img src="https://img.shields.io/badge/-Udit%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:luctivud@gmail.com"><img src="https://img.shields.io/badge/-luctivud@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/luctivud"><img src="https://img.shields.io/badge/-@luctivud-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
