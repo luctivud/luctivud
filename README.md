@@ -15,16 +15,24 @@
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/about-me-light-0x01.jpg" height="120em" />
 </p>
 
-- 🔭 I like exploring and working on new technologies.
-- 💡 I'm currently pursuing B.Tech in Computer Science & Engineering.
-- 🐍 I'm a Pythonista and have worked on some Machine Learning Projects.
-- <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji> I have handful of experience in Front-end Web Development too. 
-- 👨‍💻 Competitive Programming is my hobby, passion and skill.
-- 🖊️ Writing is one of my other hobbies. I love to write blogs/poems in my free time.
-- 💙 I love Anime. 
-- Drop me a mail at <a href = "mailto:luctivud@gmail.com">luctivud@gmail.com</a>. I will revert back as soon as I can.
+<p align = "center">
+🔭 I like exploring and working on new technologies.
+<br>
+💡 I'm currently pursuing B.Tech in Computer Science & Engineering.
+<br>
+🐍 I'm a Pythonista and have worked on some Machine Learning Projects.
+<br>
+greedling I have handful of experience in Front-end Web Development too. 
+<br>
+👨‍💻 Competitive Programming is my hobby, passion and skill.
+<br>
+🖊️ Writing is one of my other hobbies. I love to write blogs/poems in my free time.
+<br>
+💙 I love Anime. 
+<br>
+Drop me a mail at <a href = "mailto:luctivud@gmail.com">luctivud@gmail.com</a>. I will revert back as soon as I can.
 <!-- - <a href ="mailto:luctivud@gmail.com">![Gmail Badge](https://img.shields.io/badge/-luctivud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luctivud@gmail.com)</a> -->
-
+</p>
 <br>
 <br>
 
