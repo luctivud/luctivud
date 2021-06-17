@@ -31,9 +31,13 @@
 <br>
 <br>
 
+<p align = "left">
+
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/pics/E8Nq-gifer.gif" height="120em" />
 
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/pics/Tech-stack-dark.png" height="120em" />
+
+</p>
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
