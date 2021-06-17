@@ -11,11 +11,8 @@
 <br>
 
 <p align = "left"> 
-
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/pen-doretti-nicholas-dribble.gif" height="120em" />
-
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/AboutMe-light.png" height="120em" />
-
 </p>
 
 - 🔭 I like exploring and working on new technologies.
@@ -32,11 +29,8 @@
 <br>
 
 <p align = "left">
-
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/E8Nq-gifer.gif" height="120em" />
-
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/TechStack-dark-center.png" height="120em" />
-
 </p>
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -59,11 +53,8 @@
 <!-- ### ⚙️ &nbsp;GitHub Analytics -->
 
 <p align = "left"> 
-
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/motion-doretti-nicolas-dribble.gif" height="120em" />
-
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/Analytics-light.png" height="120em" />
-
 </p>
 
 <p align = "left">
@@ -83,9 +74,14 @@
 <br>
 <br>
 
-### 🤝🏻 &nbsp;Connect with Me
+<!-- ### 🤝🏻 &nbsp;Connect with Me -->
 
-<p align="center">
+<p align = "left"> 
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/team-doretti-nicolas-dribble-dark.gif" height="120em" />
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/Connect-dark.png" height="120em" />
+</p>
+
+<p align="left">
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/udit-gupta-1b7863135/"><img src="https://img.shields.io/badge/-Udit%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:luctivud@gmail.com"><img src="https://img.shields.io/badge/-luctivud@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
