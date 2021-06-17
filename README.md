@@ -39,39 +39,39 @@
     <col width="220em" />
     <col width="200em" />
     <tr>
-      <td> <img src = "https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" \> </td>
-      <td> <img src = "https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" \> </td>
-      <td> <img src = "https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin" \> </td>
     </tr>
     <tr>
-      <td> <img src = "https://img.shields.io/badge/-Python3-05122A?style=flat&logo=python" \> </td>
-      <td> <img src = "https://img.shields.io/badge/-pypy3-05122A?style=flat&logo=pypy" \> </td>
-      <td> <img src = "https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Python3-05122A?style=flat&logo=python" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-pypy3-05122A?style=flat&logo=pypy" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy" \> </td>
     </tr>
     <tr>
-      <td> <img src = "https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas" \> </td>
-      <td> <img src = "https://img.shields.io/badge/-Scipy-05122A?style=flat&logo=scipy" \> </td>
-      <td> <img src = "https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Scipy-05122A?style=flat&logo=scipy" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau" \> </td>
     </tr>
     <tr>
-      <td> <img src = "https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5" \> </td>
-      <td> <img src = "https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6" \> </td>
-      <td> <img src = "https://img.shields.io/badge/-Bootstrap4-05122A?style=flat&logo=bootstrap&logoColor=563D7C" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Bootstrap4-05122A?style=flat&logo=bootstrap&logoColor=563D7C" \> </td>
     </tr>
     <tr>
-      <td> <img src = "https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" \> </td>
-      <td> <img src = "https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" \> </td>
-      <td> <img src = "https://img.shields.io/badge/-Angular7-05122A?style=flat&logo=angular" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Angular7-05122A?style=flat&logo=angular" \> </td>
     </tr>
     <tr>
-      <td> <img src = "https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" \> </td>
-      <td> <img src = "https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" \> </td>
-      <td> <img src = "https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex" \> </td>
     </tr>
     <tr>
-      <td> <img src = "https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" \> </td>
-      <td> <img src = "https://img.shields.io/badge/-Sublime%20Text%203-05122A?style=flat&logo=sublimetext" \> </td>
-      <td> <img src = "https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-Sublime%20Text%203-05122A?style=flat&logo=sublimetext" \> </td>
+      <td align="center"> <img src = "https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" \> </td>
     </tr>
   </table>
 </div>
