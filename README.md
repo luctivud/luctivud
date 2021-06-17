@@ -88,7 +88,7 @@
 
 <p align = "left">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=6&theme=buefy"/>
+  <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=buefy"/>
 </p>
 <br>
 <p align = "left">
