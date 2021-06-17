@@ -85,14 +85,14 @@
 
 
 <p align = "left">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height ="150em" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=SECRET,S,AAA,AA,B,C,A&no-bg=true&no-frame=true&margin-w=0" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height ="100em" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=SECRET,S,AAA,AA,B,C,A&no-bg=true&no-frame=true&margin-w=30" />
 </p>
 
 <br>
 <p align = "left">
-  <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=5&theme=buefy"/>
-  <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=darcula"/>
+  <img height = "120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=5&theme=buefy"/>
+  <img height = "120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=darcula"/>
 </p>
 
 <br>
