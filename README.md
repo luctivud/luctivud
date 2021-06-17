@@ -29,8 +29,8 @@
 <br>
 
 <p align = "right">
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/E8Nq-gifer.gif" height="120em" />
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/TechStack-dark-center.png" height="120em" />
+  <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/TechStack-dark-center.png" height="120em" />
+  <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/E8Nq-gifer.gif" height="120em" />
 </p>
 
 <div align = "right">
@@ -78,8 +78,8 @@
 <!-- ### 🤝🏻 &nbsp;Connect with Me -->
 
 <p align = "right"> 
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/team-doretti-nicolas-dribble.gif" height="120em" />
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/OtherProfiles-light.png" height="120em" />
+  <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/OtherProfiles-light.png" height="120em" />
+  <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/team-doretti-nicolas-dribble.gif" height="120em" />
 </p>
 
 <p align="right">
