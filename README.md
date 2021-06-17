@@ -114,15 +114,19 @@
 <a href="https://www.miraquill.com/luctivud"><img src="https://img.shields.io/badge/Miraquill-luctivud-dc4e41?style=flat&logo=&logoColor=white"/></a>
 <a href="https://www.quora.com/profile/Udit-Gupta-%E0%A4%89%E0%A4%A6%E0%A4%BF%E0%A4%A4-%E0%A4%97%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BE-1"><img src="https://img.shields.io/badge/-luctivud-A82723?style=flat&logo=Quora&logoColor=white"/></a>
 <br>
-<a href="https://stackoverflow.com/users/11529601/luctivud"><img src="https://img.shields.io/badge/-luctivud-f48024?style=flat&logo=Stackoverflow&logoColor=white"/></a>
+<a href="https://clist.by/coder/luctivud/"><img src="https://img.shields.io/badge/clist-luctivud-080908?style=flat&logo=Clist&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/luctivud"><img src="https://img.shields.io/badge/-luctivud-445F9D?style=flat&logo=Codeforces&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/light301"><img src="https://img.shields.io/badge/-light301-5D3319?style=flat&logo=Codechef&logoColor=white"/></a>
 <a href="https://leetcode.com/luctivud/"><img src="https://img.shields.io/badge/-luctivud-FFA116?style=flat&logo=Leetcode&logoColor=white"/></a>
 <br>
-<a href="https://atcoder.jp/users/luctivud"><img src="https://img.shields.io/badge/Atcoder-luctivud-222222?style=flat&logo=atcoder&logoColor=white"/></a>
 <a href="https://www.hackerearth.com/@luctivud"><img src="https://img.shields.io/badge/-luctivud-323754?style=flat&logo=Hackerearth&logoColor=white"/></a>
+<a href="https://atcoder.jp/users/luctivud"><img src="https://img.shields.io/badge/Atcoder-luctivud-222222?style=flat&logo=atcoder&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/luctivud?hr_r=1"><img src="https://img.shields.io/badge/-luctivud-2EC866?style=flat&logo=Hackerrank&logoColor=white"/></a>
 <a href="https://www.topcoder.com/members/luctivud"><img src="https://img.shields.io/badge/-luctivud-43D7B0?style=flat&logo=Topcoder&logoColor=white"/></a>
+<br />
+<a href="https://auth.geeksforgeeks.org/user/luctivud/profile"><img src="https://img.shields.io/badge/-luctivud-2f8d46?style=flat&logo=Geeksforgeeks&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/11529601/luctivud"><img src="https://img.shields.io/badge/-luctivud-f48024?style=flat&logo=Stackoverflow&logoColor=white"/></a>
+<a href="https://www.stopstalk.com/user/profile/luctivud"><img src="https://img.shields.io/badge/stopstalk-luctivud-f5f508?style=flat&logo=Stopstalk&logoColor=white"/></a>
 </p>
 
 
