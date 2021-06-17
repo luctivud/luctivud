@@ -1,4 +1,5 @@
 <!-- image here -->
+<hr>
 
 ![](https://komarev.com/ghpvc/?username=luctivud)
 
@@ -16,13 +17,13 @@
 </p>
 
 <p align = "center">
-🔭 I like exploring and working on new technologies.
+🔭 I love to explore new technologies.
 <br>
 💡 I'm currently pursuing B.Tech in Computer Science & Engineering.
 <br>
-🐍 I'm a Pythonista and have worked on some Machine Learning Projects.
+🐍 I'm a Pythonista and have worked on Machine Learning.
 <br>
-greedling I have handful of experience in Front-end Web Development too. 
+greedling I also have experience in Front-end Web Development. 
 <br>
 👨‍💻 Competitive Programming is my hobby, passion and skill.
 <br>
@@ -144,6 +145,8 @@ Drop me a mail at <a href = "mailto:luctivud@gmail.com">luctivud@gmail.com</a>. 
 </p>
 
 <hr>
+
+_**Template by: Udit "luctivud" Gupta**_
 
 _This user is a special user and a disciple of Judi. Make sure you follow him and star the repos you find useful._
 
