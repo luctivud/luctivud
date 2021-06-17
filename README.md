@@ -78,8 +78,8 @@
 <!-- ### 🤝🏻 &nbsp;Connect with Me -->
 
 <p align = "right"> 
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/team-doretti-nicolas-dribble-dark.gif" height="120em" />
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/Connect-dark.png" height="120em" />
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/team-doretti-nicolas-dribble.gif" height="120em" />
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/OtherProfiles-light.png" height="120em" />
 </p>
 
 <p align="right">
