@@ -5,11 +5,12 @@
 ### Hello there! I'm Udit Gupta.
 
 <!-- I see that you have stumbled upon by GitHub profile, so let me introduce myself in a gist. _[clears throat]_ -->
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 <br>
 <br>
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me:
+###  About Me:
 - 🔭 I like exploring and working on new technologies.
 - 💡 I'm currently pursuing B.Tech in Computer Science & Engineering.
 - 🐍 I'm a Pythonista and have worked on some Machine Learning Projects.
@@ -51,7 +52,8 @@
 <p align="center">
 <!-- <a href="https://github.com/AVS1508"> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=8&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=8&theme=buefy&count_private=true"/>
+
 <!-- </a> -->
 </p>
 
@@ -62,12 +64,13 @@
 
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Udit%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/udit-gupta-1b7863135/"><img src="https://img.shields.io/badge/-Udit%20Gupta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:luctivud@gmail.com"><img src="https://img.shields.io/badge/-luctivud@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/t1d.ug"><img src="https://img.shields.io/badge/-@t1d.ug-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/luctivud"><img src="https://img.shields.io/badge/-@luctivud-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.miraquill.com/luctivud"><img src="https://img.shields.io/badge/Miraquill-luctivud-dc4e41?style=flat&logo=&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/11529601/luctivud"><img src="https://img.shields.io/badge/-luctivud-f48024?style=flat&logo=Stackoverflow&logoColor=white"/></a>
+
 </p>
 
 
