@@ -84,16 +84,14 @@
 </p>
 
 
-
-
 <p align = "left">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=buefy"/>
+  <img src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=SECRET,S,AAA,AA,B,C,A&no-bg=true&no-frame=true&margin-w=0" />
 </p>
 <br>
 <p align = "left">
-  <img align="left" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=SECRET,S,AAA,AA,B,C,A&no-bg=true&no-frame=true&margin-w=15" />
-  
+  <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=5&theme=buefy"/>
+  <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=darcula"/>
 </p>
 <br>
 <br>
@@ -168,5 +166,4 @@
 
 
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
-
 <!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp; -->
