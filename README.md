@@ -66,11 +66,11 @@
 
 </p>
 
-<div align = "center">
-  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=S,AAA,AA,B,C,A&margin-w=10" />
+<div align = "left">
+  <img align="left" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=S,AAA,AA,B,C,A&margin-w=10" />
 </div>
 <br/>
-<p align="center">
+<p align="left">
 <!-- <a href="https://github.com/AVS1508"> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=8&theme=buefy"/>
