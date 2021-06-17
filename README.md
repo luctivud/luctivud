@@ -16,6 +16,8 @@
 - Drop me a mail at <a href = "mailto:luctivud@gmail.com">luctivud@gmail.com</a>. I will revert back as soon as I can.
 <!-- - <a href ="mailto:luctivud@gmail.com">![Gmail Badge](https://img.shields.io/badge/-luctivud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luctivud@gmail.com)</a> -->
 
+<br>
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -32,7 +34,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
+<br>
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -47,6 +50,7 @@
 <!-- </a> -->
 </p>
 
+<br>
 <br>
 
 ### 🤝🏻 &nbsp;Connect with Me
