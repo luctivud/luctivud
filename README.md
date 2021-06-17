@@ -34,39 +34,45 @@
 </p>
 
 <div align = "right">
-
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-\
-![Python](https://img.shields.io/badge/-Python3-05122A?style=flat&logo=python)&nbsp;
-![Pypy](https://img.shields.io/badge/-pypy3-05122A?style=flat&logo=pypy)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
-\
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Scipy](https://img.shields.io/badge/-Scipy-05122A?style=flat&logo=scipy)&nbsp;
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)&nbsp;
-\
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap4-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-\
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Angular7](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-\
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-\
-![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime3](https://img.shields.io/badge/-Sublime3-05122A?style=flat&logo=sublimetext)
-
+  <table>
+    <tr>
+      <td> <img src = "https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" \> </td>
+      <td> <img src = "https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" \> </td>
+      <td> <img src = "https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin" \> </td>
+    </tr>
+    <tr>
+      <td> <img src = "https://img.shields.io/badge/-Python3-05122A?style=flat&logo=python" \> </td>
+      <td> <img src = "https://img.shields.io/badge/-pypy3-05122A?style=flat&logo=pypy" \> </td>
+      <td> <img src = "https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy" \> </td>
+    </tr>
+    <tr>
+      <td> <img src = "https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas" \> </td>
+      <td> <img src = "https://img.shields.io/badge/-Scipy-05122A?style=flat&logo=scipy" \> </td>
+      <td> <img src = "https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau" \> </td>
+    </tr>
+    <tr>
+      <td> <img src = "https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5" \> </td>
+      <td> <img src = "https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6" \> </td>
+      <td> <img src = "https://img.shields.io/badge/-Bootstrap4-05122A?style=flat&logo=bootstrap&logoColor=563D7C" \> </td>
+    </tr>
+    <tr>
+      <td> <img src = "https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" \> </td>
+      <td> <img src = "https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" \> </td>
+      <td> <img src = "https://img.shields.io/badge/-Angular7-05122A?style=flat&logo=angular" \> </td>
+    </tr>
+    <tr>
+      <td> <img src = "https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" \> </td>
+      <td> <img src = "https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" \> </td>
+      <td> <img src = "https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex" \> </td>
+    </tr>
+    <tr>
+      <td> <img src = "https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" \> </td>
+      <td> <img src = "https://img.shields.io/badge/-Sublime%20Text%203-05122A?style=flat&logo=sublimetext" \> </td>
+      <td> <img src = "https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" \> </td>
+    </tr>
+  </table>
 </div>
-<!-- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
 
-<!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp; -->
 <br>
 <br>
 
@@ -123,3 +129,36 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105"></p>
   </div> -->
+
+
+<!-- ![C]()&nbsp;
+![Kotlin]()&nbsp;
+\
+![Python]()&nbsp;
+![Pypy]()&nbsp;
+![Numpy]()&nbsp;
+\
+![Pandas]()&nbsp;
+![Scipy]()&nbsp;
+![Tableau]()&nbsp;
+\
+![HTML]()&nbsp;
+![CSS]()&nbsp;
+![Bootstrap]()
+\
+![JavaScript]()&nbsp;
+![TypeScript]()&nbsp;
+![Angular7]()&nbsp;
+\
+![MySQL]()&nbsp;
+![Git]()&nbsp;
+![Markdown]()
+\
+![Latex]()
+![Visual Studio Code]()&nbsp;
+![Sublime3]() -->
+
+
+<!-- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
+
+<!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp; -->
