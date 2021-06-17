@@ -22,21 +22,23 @@
 </p>
 
 <p align = "center">
-🔭 I love to explore new technologies.
+🔭 I love to explore new technologies 🔭
 <br>
-💡 I'm currently pursuing B.Tech in Computer Science & Engineering.
+💡 I'm currently pursuing B.Tech in Computer Science & Engineering 💡
 <br>
-🐍 I'm a Pythonista and have worked on Machine Learning.
+🐍 I'm a Pythonista and have worked on Machine Learning 🐍
 <br>
-greedling I also have experience in Front-end Web Development. 
+🌱 I also have experience in Front-end Web Development 🌱
 <br>
-👨‍💻 Competitive Programming is my hobby, passion and skill.
+👨‍💻 Competitive Programming is my hobby, passion and skill 👨‍💻
 <br>
-🖊️ Writing is one of my other hobbies. I love to write blogs/poems in my free time.
+✍️ Writing is one of my other hobbies ✍️
 <br>
-💙 I love Anime. 
+📖 I love to write blogs/poems in my free time 📖
 <br>
-Drop me a mail at <a href = "mailto:luctivud@gmail.com">luctivud@gmail.com</a>. I will revert back as soon as I can.
+💙 I love Anime 💙
+<br>
+📪 Drop me a mail at <a href = "mailto:luctivud@gmail.com">luctivud@gmail.com</a>. I will revert back as soon as I can 📭
 <!-- - <a href ="mailto:luctivud@gmail.com">![Gmail Badge](https://img.shields.io/badge/-luctivud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luctivud@gmail.com)</a> -->
 </p>
 <br>
