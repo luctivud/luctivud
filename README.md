@@ -98,16 +98,16 @@ Drop me a mail at <a href = "mailto:luctivud@gmail.com">luctivud@gmail.com</a>. 
 
 <p align = "center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=buefy"/>
 </p>
 <!-- <p align = "center">
   <img height ="100em" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=S,AAA,AA,B,C,A&no-bg=true&no-frame=true" />
 </p> -->
 
 <br>
-<p align = "center">
-  <img height = "120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=5&theme=buefy"/>
-  <img height = "120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=darcula"/>
-</p>
+<!-- <p align = "center">
+  <img height = "120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=5&theme=darcula"/>
+</p> -->
 
 <br>
 <br>
