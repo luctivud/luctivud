@@ -12,9 +12,9 @@
 
 <p align = "left"> 
 
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/pics/pen-doretti-nicholas-dribble.gif" height="120em" />
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/pen-doretti-nicholas-dribble.gif" height="120em" />
 
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/pics/About-me-light-204359.png" height="120em" />
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/AboutMe-light.png" height="120em" />
 
 </p>
 
