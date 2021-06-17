@@ -9,16 +9,15 @@
 
 <br>
 <br>
-<p align = "left> 
 
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/pics/pen-doretti-nicholas-dribble.gif" height="100em" />
+<p align = "left"> 
 
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/pics/About-me-light-204359.png" height="100em" />
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/pics/pen-doretti-nicholas-dribble.gif" height="120em" />
+
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/pics/About-me-light-204359.png" height="120em" />
 
 </p>
 
-
-###  About Me:
 - 🔭 I like exploring and working on new technologies.
 - 💡 I'm currently pursuing B.Tech in Computer Science & Engineering.
 - 🐍 I'm a Pythonista and have worked on some Machine Learning Projects.
