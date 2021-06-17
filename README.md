@@ -85,8 +85,8 @@
 
 
 <p align = "left">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=SECRET,S,AAA,AA,B,C,A&no-bg=true&no-frame=true&margin-w=0" />
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height ="150em" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=SECRET,S,AAA,AA,B,C,A&no-bg=true&no-frame=true&margin-w=0" />
 </p>
 <br>
 <p align = "left">
