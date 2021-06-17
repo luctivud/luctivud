@@ -83,17 +83,18 @@
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/Github-stats-light-0x01.jpg" height="120em" />
 </p>
 
-<p align = "left">
-  <img align="left" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=S,AAA,AA,B,C,A" />
-</p>
 
-<br/>
+
 
 <p align = "left">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=6&theme=buefy"/>
 </p>
-
+<br>
+<p align = "left">
+  <img align="left" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=SECRET,S,AAA,AA,B,C,A&no-bg=true&no-frame=true&margin-w=15" />
+  
+</p>
 <br>
 <br>
 
