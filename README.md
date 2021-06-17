@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<p align = "left"> 
+<p align = "center"> 
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/pen-doretti-nicholas-dribble.gif" height="120em" />
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/about-me-light-0x01.jpg" height="120em" />
 </p>
@@ -28,13 +28,16 @@
 <br>
 <br>
 
-<p align = "right">
+<p align = "center">
   <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/Tech-stack-light-0x01.jpg" height="120em" />
   <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/resp-dribble.gif" height="120em" />
 </p>
 
-<div align = "right">
+<div align = "center" style = "table-layout:fixed; overflow: hidden;">
   <table>
+    <col width="200em" />
+    <col width="220em" />
+    <col width="200em" />
     <tr>
       <td> <img src = "https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" \> </td>
       <td> <img src = "https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" \> </td>
@@ -78,19 +81,19 @@
 
 <!-- ### ⚙️ &nbsp;GitHub Analytics -->
 
-<p align = "left"> 
+<p align = "center"> 
   <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/motion-doretti-nicolas-dribble.gif" height="120em" />
   <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/Github-stats-light-0x01.jpg" height="120em" />
 </p>
 
 
-<p align = "left">
+<p align = "center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height ="100em" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=SECRET,S,AAA,AA,B,C,A&no-bg=true&no-frame=true&margin-w=30" />
+  <img height ="100em" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=S,AAA,AA,B,C,A&no-bg=true&no-frame=true" />
 </p>
 
 <br>
-<p align = "left">
+<p align = "center">
   <img height = "120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=5&theme=buefy"/>
   <img height = "120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=darcula"/>
 </p>
