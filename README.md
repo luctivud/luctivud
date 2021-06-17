@@ -128,6 +128,12 @@
 <a href="https://www.stopstalk.com/user/profile/luctivud"><img src="https://img.shields.io/badge/stopstalk-luctivud-f5f508?style=flat&logo=Stopstalk&logoColor=white"/></a>
 </p>
 
+<hr>
+
+_This user is a special user and a disciple of Judi. Make sure you follow him and star the repos you find useful._
+
+
+
 
 <!-- <div align = "center">
   <p>
