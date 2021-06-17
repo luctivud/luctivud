@@ -35,7 +35,7 @@
 
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/gifs/E8Nq-gifer.gif" height="120em" />
 
-<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/TechStack-dark.png" height="120em" />
+<img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/TechStack-dark-center.png" height="120em" />
 
 </p>
 
