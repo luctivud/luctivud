@@ -3,7 +3,12 @@
 
 ![](https://komarev.com/ghpvc/?username=luctivud)
 
+
+<!-- todo: add intro gif here -->
+
 ### Hello there! I'm Udit Gupta.
+
+
 
 <!-- I see that you have stumbled upon by GitHub profile, so let me introduce myself in a gist. _[clears throat]_ -->
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
@@ -100,11 +105,11 @@ Drop me a mail at <a href = "mailto:luctivud@gmail.com">luctivud@gmail.com</a>. 
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luctivud&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=buefy"/>
 </p>
-<!-- <p align = "center">
-  <img height ="100em" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=S,AAA,AA,B,C,A&no-bg=true&no-frame=true" />
-</p> -->
-
 <br>
+<p align = "right">
+  <img height ="90em" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=S,AAA,AA,B,C,A&no-bg=true&no-frame=true&margin-w=50" />
+</p>
+<!-- style="margin-left:100px" -->
 <!-- <p align = "center">
   <img height = "120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=5&theme=darcula"/>
 </p> -->
