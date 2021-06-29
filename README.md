@@ -108,9 +108,9 @@
   <img height = "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&hide=Jupyter%20Notebook&layout=compact&langs_count=7&theme=buefy"/>
 </p>
 <br>
-<p align = "right">
+<!-- <p align = "right">
   <img height ="90em" src= "https://github-profile-trophy.vercel.app/?username=luctivud&theme=flat&rank=S,AAA,AA,B,C,A&no-bg=true&no-frame=true&margin-w=50" />
-</p>
+</p> -->
 <!-- style="margin-left:100px" -->
 <!-- <p align = "center">
   <img height = "120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luctivud&layout=compact&langs_count=5&theme=darcula"/>
