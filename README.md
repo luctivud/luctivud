@@ -21,7 +21,7 @@
 <img src="https://github.com/luctivud/luctivud/blob/main/assets/imgs/about-me-light-0x01.jpg" height="120em" />
 </p>
 
-<p align = "center">
+<!-- <p align = "center">
 🔭 I love to explore new technologies 🔭
 <br>
 💡 I'm currently pursuing B.Tech in Computer Science & Engineering 💡
@@ -41,6 +41,7 @@
 📪 Drop me a mail at <a href = "mailto:luctivud@gmail.com">luctivud@gmail.com</a>. I will revert back as soon as I can 📭
 <!-- - <a href ="mailto:luctivud@gmail.com">![Gmail Badge](https://img.shields.io/badge/-luctivud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luctivud@gmail.com)</a> -->
 </p>
+I am cringe.
 <br>
 <br>
 
